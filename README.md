@@ -3,7 +3,7 @@ Welcome to ARENA (Arduboy 3d Shooter)
 Version 1.0 ... (c) 2018 by deetee/zooxo  
 This software is covered by the 3-clause BSD license.  
 
-xxx![aos](https://user-images.githubusercontent.com/16148023/47264994-5adefb80-d521-11e8-996a-7acc3bd4717e.jpg)  
+![ARENA](https://user-images.githubusercontent.com/16148023/48252998-865d5380-e406-11e8-815f-6acf1334c7d1.jpg)  
 
 xxxSee a short video of AOS:
 xxx* Version 1.0: https://youtu.be/dVvj3j-pYlQ
