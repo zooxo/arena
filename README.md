@@ -1,25 +1,17 @@
-# AOS - Arduboy Operating System
-Welcome to AOS (Arduboy Operating System)  
+# ARENA - Arduboy 3d Shooter
+Welcome to ARENA (Arduboy 3d Shooter)  
 Version 1.0 ... (c) 2018 by deetee/zooxo  
 This software is covered by the 3-clause BSD license.  
 
-![aos](https://user-images.githubusercontent.com/16148023/47264994-5adefb80-d521-11e8-996a-7acc3bd4717e.jpg)  
+xxx![aos](https://user-images.githubusercontent.com/16148023/47264994-5adefb80-d521-11e8-996a-7acc3bd4717e.jpg)  
 
-See a short video of AOS:
-* Version 1.0: https://youtu.be/dVvj3j-pYlQ
+xxxSee a short video of AOS:
+xxx* Version 1.0: https://youtu.be/dVvj3j-pYlQ
 
 ## PREAMBLE
-It is a little bit overacting to name this software an OS - at least because of the missing multiuser and multitasking features. But in form of a command shell this software controls the hardware of the Arduboy, the memory and all in/outputs.
-
-As I like Linux and ancient HP-calculators I tried to combine both on a standardized Arduino hardware (Arduboy). AOS is based on a command shell with nearly 90 commands. So it is possible to generate and edit shell scripts (programs) to run a batch of commands automatically. With a simple disk operating system programs can be permanently saved to the EEPROM - and of course loaded from disk. It is even possible to export or import programs to or from a (Linux) PC.
-
-In addition to this basic OS functions AOS offers a lot of useful applications:
-* A calculator interface to offer a scientific RPN calculator. There is even a SOLVE or an INTEGRATE function.
-* A simple text editor which enables the treatment of text files. Like programs text files can be stored to disk or exported to a PC.
-* A keyboard emulator to simulate a (HID) keyboard via USB.
-* A terminal mode which allows to control AOS from a PC keyboard.
-* A clock (WATCH command).
-* A torch (toggle white Arduboy LED).
+Actually I am not a gamer - except puzzels and logic games. But my first contacts with Wolfenstein and Quake were very impressive because of the overwhelming plastic effects. Doing the math, when programming a 3D-game seemed to be a real challenge. Many years (and the fantastic Arduboy hardware) later I am giving this challenge a try.  
+I asserted that using approximating approaches are often faster and memory friendly than using the exact vector math. And the eyes don't really care if the tiles of a wall are drawn exactly.  
+So I tried to program a game which has very open setting possibilities. You can determine how many enemies and medipacks you want to play with. You can even draw your own arena maze with the build in map editor and save it permanently to the EEPROM memory. With the OFF feature ("deep sleep mode") you can pause your game anytime and go on weeks later without charging the battery. You can even toggle between a 3D an 2D view (even if the latter one is too small and was inteded for orientation purposes).
 
 Enjoy!
 deetee
