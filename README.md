@@ -30,26 +30,26 @@ deetee
 
 ## MENU
 ``````
-     NEW GAME  ... Start a new game (doesn't reset settings -> see RESET)
-     SETTINGS  ... Reset all setting variables
-      2D/3D    ... Toggle between 2d- and 3d-view
-      MEDI     ... Set number of medipacks (1-5)
-      AMMO     ... Set number of ammopacks (1-5)
-      ENEMIES  ... Set number of enemies (1-9)
-      SOUND    ... Sound on/off
-      CONTRAST ... Set contrast/brightness of screen (0...255)
-      STATUS   ... Show/hide status view (health, ammo, compass)
-      SKY      ... Show/hide sky view (ceiling and floor line)
-      MESSAGES ... Show/hide messages (comments)
-      RESET    ... Reset settings to default values
-     EDIT MAP  ... Map editor (edit current map)
-      WHITE    ... Draw white pixel at cursor
-      BLACK    ... Draw black pixel at cursor (clear pixel)
-      CLEAR    ... Clear map (no walls at all)
-      LOAD     ... Load to EEPROM saved map (slot 1-9)
-      SAVE     ... Save current map to EEPROM (slot 1-9)
-     BATT      ... Show supply voltage x 100 - approx. 310 (empty) to 430 (full)
-     ABOUT     ... About info
-     OFF       ... Deep sleep mode (wake up with button A)
+     NEW GAME   ... Start a new game (doesn't reset settings -> see RESET)
+     SETTINGS   ... Reset all setting variables
+       2D/3D    ... Toggle between 2d- and 3d-view
+       MEDI     ... Set number of medipacks (1-5)
+       AMMO     ... Set number of ammopacks (1-5)
+       ENEMIES  ... Set number of enemies (1-9)
+       SOUND    ... Sound on/off
+       CONTRAST ... Set contrast/brightness of screen (0...255)
+       STATUS   ... Show/hide status view (health, ammo, compass)
+       SKY      ... Show/hide sky view (ceiling and floor line)
+       MESSAGES ... Show/hide messages (comments)
+       RESET    ... Reset settings to default values
+     EDIT MAP   ... Map editor (edit current map)
+       WHITE    ... Draw white pixel at cursor
+       BLACK    ... Draw black pixel at cursor (clear pixel)
+       CLEAR    ... Clear map (no walls at all)
+       LOAD     ... Load to EEPROM saved map (slot 1-9)
+       SAVE     ... Save current map to EEPROM (slot 1-9)
+     BATT       ... Show supply voltage x 100 - approx. 310 (empty) to 430 (full)
+     ABOUT      ... About info
+     OFF        ... Deep sleep mode (wake up with button A)
      
 ``````     
