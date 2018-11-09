@@ -13,7 +13,7 @@ Actually I am not a gamer - except puzzels and logic games. But my first contact
 I asserted that using approximating approaches are often faster and memory friendly than using the exact vector math. And the eyes don't really care if the tiles of a wall are drawn exactly.  
 So I tried to program a game which has very open setting possibilities. You can determine how many enemies and medipacks you want to play with. You can even draw your own arena maze with the build in map editor and save it permanently to the EEPROM memory. With the OFF feature ("deep sleep mode") you can pause your game anytime and go on weeks later without charging the battery. You can even toggle between a 3D an 2D view (even if the latter one is too small and was intended for orientation purposes).
 
-Enjoy!
+Enjoy!  
 deetee
 
 ## OVERVIEW
