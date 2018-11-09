@@ -51,5 +51,4 @@ deetee
      BATT       ... Show supply voltage x 100 - approx. 310 (empty) to 430 (full)
      ABOUT      ... About info
      OFF        ... Deep sleep mode (wake up with button A)
-     
 ``````     
