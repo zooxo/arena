@@ -18,11 +18,11 @@ deetee
 
 ## OVERVIEW
 
-https://user-images.githubusercontent.com/16148023/48253026-970dc980-e406-11e8-9c46-7cb1a5500ddf.jpg
+![arena_overview](https://user-images.githubusercontent.com/16148023/48253026-970dc980-e406-11e8-9c46-7cb1a5500ddf.jpg)
 
 ## SCREEN
 
-https://user-images.githubusercontent.com/16148023/48253033-9aa15080-e406-11e8-964e-16f50c795315.jpg
+![arena_screen](https://user-images.githubusercontent.com/16148023/48253033-9aa15080-e406-11e8-964e-16f50c795315.jpg)
 
 ## ENEMIES AND OBJECTS
 
