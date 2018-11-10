@@ -5,8 +5,8 @@ This software is covered by the 3-clause BSD license.
 
 ![ARENA](https://user-images.githubusercontent.com/16148023/48252998-865d5380-e406-11e8-815f-6acf1334c7d1.jpg)  
 
-xxxSee a short video of AOS:
-xxx* Version 1.0: https://youtu.be/dVvj3j-pYlQ
+See a short video of AOS:  
+ Version 1.0: https://youtu.be/KJUq3ZrXiq8
 
 ## PREAMBLE
 Actually I am not a gamer - except puzzels and logic games. But my first contacts with Wolfenstein and Quake were very impressive because of the overwhelming plastic effects. Doing the math, when programming a 3D-game seemed to be a real challenge. Many years (and the fantastic Arduboy hardware) later I am giving this challenge a try.  
