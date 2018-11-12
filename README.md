@@ -46,7 +46,7 @@ deetee
        WHITE    ... Draw white pixel at cursor
        BLACK    ... Draw black pixel at cursor (clear pixel)
        CLEAR    ... Clear map (no walls at all)
-       LOAD     ... Load to EEPROM saved map (slot 1-9)
+       LOAD     ... Load map from EEPROM (slot 1-9)
        SAVE     ... Save current map to EEPROM (slot 1-9)
      BATT       ... Show supply voltage x 100 - approx. 310 (empty) to 430 (full)
      ABOUT      ... About info
