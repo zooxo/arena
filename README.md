@@ -9,9 +9,9 @@ See a short video of AOS:
  Version 1.0: https://youtu.be/KJUq3ZrXiq8
 
 ## PREAMBLE
-Actually I am not a gamer - except puzzels and logic games. But my first contacts with Wolfenstein and Quake were very impressive because of the overwhelming plastic effects. Doing the math, when programming a 3D-game seemed to be a real challenge. Many years (and the fantastic Arduboy hardware) later I am giving this challenge a try.  
-I asserted that using approximating approaches are often faster and memory friendly than using the exact vector math. And the eyes don't really care if the tiles of a wall are drawn exactly.  
-So I tried to program a game which has very open setting possibilities. You can determine how many enemies and medipacks you want to play with. You can even draw your own arena maze with the build in map editor and save it permanently to the EEPROM memory. With the OFF feature ("deep sleep mode") you can pause your game anytime and go on weeks later without charging the battery. You can even toggle between a 3D an 2D view (even if the latter one is too small and was intended for orientation purposes).
+Actually I am not a gamer - except puzzels and logic games. But my first contacts with Wolfenstein and Quake were very impressive because of the overwhelming plastic effects. Doing the math seemed to be a real challenge when programming a 3D-game. Many years (and the fantastic Arduboy hardware) later I am giving this challenge a try.  
+I asserted that using approximating approaches are often faster and more memory friendly than using the exact vector math. And the eyes don't really care if the tiles of a wall are drawn exactly.  
+So I tried to program a game which has very open setting possibilities. You can determine how many enemies and medipacks you want to play with. You can even draw your own arena maze with the built-in map editor and save it permanently to the EEPROM memory. With the OFF feature ("deep sleep mode") you can pause your game anytime and go on weeks later without charging the battery. You can even toggle between a 3D an 2D view (even if the latter one is to small and was inteded for orientation purposes).
 
 Enjoy!  
 deetee
