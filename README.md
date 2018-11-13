@@ -52,3 +52,10 @@ deetee
      ABOUT      ... About info
      OFF        ... Deep sleep mode (wake up with button A)
 ``````     
+
+## SPECIALITIES
+### FLASHLIGHT MODE
+Secure wait to flash software if UP is pressed when switching on.
+
+### REINITIALIZE
+Reset saved variables (EEPROM) if DOWN is pressed when switching on.
